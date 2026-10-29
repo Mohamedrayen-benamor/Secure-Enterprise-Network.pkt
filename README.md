@@ -102,7 +102,7 @@ Suggested screenshots to add under a `screenshots/` folder:
 After adding a screenshot, you can display it in this README using:
 
 ```markdown
-<img width="860" height="608" alt="Capture d&#39;écran 2026-10-29 114041" src="https://github.com/user-attachments/assets/df6db9b9-c45a-475b-aa4b-cc297545998e" />
+Capture d'écran 2026-10-29 114041.png
 
 ```
 
